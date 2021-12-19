@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:alt.vis.workshop@gmail.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+DTSTART:20211024T170000Z
+DTEND:20211024T183000Z
+DTSTAMP:20211012T171034Z
+UID:292j13ui0ev1ikr0ujl8bnoit7@google.com
+CLASS:PUBLIC
+CREATED:20211012T170859Z
+DESCRIPTION:(All Times listed are in CDT)<br><br><b>1200-1330&nbsp\;Session
+  1</b><br>1200-1210 Opening<br><br><b>1210-1250 Presentation Series I: Alt.
+ ercations</b><br><ul><li>"Towards a Theory of Bullshit Visualization"\, Mic
+ hael Correll</li><li>"Visualization for Villainy"\, Andrew M McNutt\, Lilia
+ n Huang\, Kathryn Koenig</li><li>"Manifesto for Putting Chartjunk in the Tr
+ ash 2021!"\, Derya Akbaba\, Jack Wilburn\, Miriah Meyer</li></ul><br><br>Se
+ ries Q&amp\;A: Alt.ercations<br><br><b>1250-1330 Presentation Series II: Al
+ t.itude</b><br><ul><li>"'Is IEEE VIS *that* good?'' On key factors in the i
+ nitial assessment of manuscript and venue quality" Nicholas S Spyrison\, Be
+ njamin Lee\, Lonni Besançon</li><li>"Visualizations as Data Input"\, Samuel
+  Huron\, Wesley Willett</li><li>"Publishing Visualization Studies as Regist
+ ered Reports: Expected Benefits and Researchers’ Attitudes"\, Lonni Besanço
+ n\, Anastasia Bezerianos\, Pierre Dragicevic\, Petra Isenberg\, Yvonne Jans
+ en</li></ul><br><br>Series Q&amp\;A: Alt.itude
+LAST-MODIFIED:20211012T170859Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Alt.VIS Workshop: Session 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211024T190000Z
+DTEND:20211024T203000Z
+DTSTAMP:20211012T171034Z
+UID:6d5qrccpgvhrojldhr92ticq60@google.com
+CREATED:20211012T171011Z
+DESCRIPTION:All times are in CDT (UTC -5)<br><b><br></b><br><b>1400-1530&nb
+ sp\;Session 2</b><br><br><b>1400-1450 Presentation Series III: Ex.alt.ation
+ s</b><br><ul><li>"Illegible Semantics: Exploring the Design Space of Metal 
+ Logos"\, Gerrit Rijken\, Rene Cutura\, Frank Heyen\, Michael Sedlmair\, Mic
+ hael Correll\, Jason Dykes\, Noeska Natasja Smit</li><li>"Touching Art - A 
+ Method for Visualizing Tactile Experience"\, Bernice Rogowitz\, Laura J Per
+ ovich\, Yuke Li\, Bjorn G Kierulf\, Dietmar Offenhuber</li><li>"Xenakis: Da
+ ta Cities and Sound"\, Victor Schetinger\, Velitchko Andreev Filipov\, Rena
+ n L Martins Guarese\, Ignacio Pérez-Messina</li><li>"Data Knitualization: A
+ n Exploration of Knitting as a Visualization Medium"\, Noeska Natasja Smit<
+ /li></ul><br>Series Q&amp\;A: Ex.alt.ations<br><br><b>1450-1530 Discussion:
+  The Future of alt.VIS</b>
+LAST-MODIFIED:20211012T171011Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Alt.VIS Workshop: Session 2
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

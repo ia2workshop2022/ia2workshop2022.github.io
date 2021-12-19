@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
+
+strong {
+	color: #eb5b37;
+	font-weight: bold;
+}
+
+body {
+	font-family: 'Nunito', "Helvetica Neue", sans-serif;
+	color: #333;
+	padding-bottom: 100px;
+}
+#logo {
+	width: 200px;
+	height: 200px;
+	background-image: url(https://i.imgur.com/TnrB3Eu.png);
+	background-size: cover;
+	background-position: center; /* Center the image */
+	vertical-align: center;
+	margin: 40px auto;
+}
+
+#logo h1 {
+	vertical-align: center;
+	line-height: 100%;
+	font-size: 4em;
+	color: #000;
+}
+
+h1 {
+	padding-top: 40px;
+	padding-bottom: 15px;
+}
+
+h1, h2, h4 {
+	font-weight: 700;
+}
+
+h3 {
+	padding-top: 20px;
+	font-weight: 900;
+}
+
+li {
+	padding-bottom: 5px;
+}
+
+a {
+	color: #00acee;
+	font-weight: 700;
+}
+
+.follow {
+	font-size: 1.2em;
+}
+
+td {
+	padding: 10px;
+}
+
+div#schedule {
+	text-align: center;
+}
+
+div#schedule ul {
+	list-style-type: none;
+	padding: 10px 0;
+	margin: 0px
+}
+
+.headshot {
+	width: 80%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+td img {
+	width: 100%;
+}
+
+.bio {
+	margin: 20px auto;
+	width: 90%;
+	text-align: center;
+}
+
+#registration {
+	padding: 20px;
+	text-align: center;
+	background-color: mediumslateblue;
+	color: #ffffff;
+	font-weight: bold;
+	border-radius: 10px;
+	margin: 20px auto;
+	display: block;
+	font-family: 'Nunito', "Helvetica Neue", sans-serif;
+	font-size: 1rem;
+	cursor: pointer;
+	transition: background 250ms ease-in-out,
+	transform 150ms ease;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	text-decoration: none;
+	border: none;
+}
+
+#registration a {
+	text-decoration: none;
+}
+
+#registration a:hover {
+	text-decoration: none;
+}
