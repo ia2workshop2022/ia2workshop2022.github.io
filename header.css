@@ -1,0 +1,49 @@
+.header-h1{
+    margin: 0px;
+    padding: 0px;
+    text-align: left;
+  }
+  .header-text-container{
+    text-align: left;
+    margin-left: 10px;
+  }
+  #two-dot-zero{
+    font-size: 1em;
+    background-color: black;
+    color: white;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    padding: 6px 4px 4px 4px;
+    margin-left: 5px;
+    margin-top:-10px;
+  }
+  .header-container{
+    display: inline-flex;
+    margin-top: 50px;
+  }
+  .header-text-container-top{
+    display: inline-flex;
+    padding-top: 15px;
+  }
+  .header-ia{
+font-weight: 600;
+font-size: 2rem;
+  }
+  #spatial{
+    color: #1f78b4;
+    text-shadow: 2px 2px #ccc;
+    font-size: 3.5rem;
+
+  }
+  #embodied{
+color:#33a02c;
+text-shadow: 2px 2px #ccc;
+font-size: 3.5rem;
+
+ }
+
+
+ 
