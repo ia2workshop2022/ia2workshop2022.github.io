@@ -118,3 +118,8 @@ td img {
 	text-align: justify;
   	text-justify: inter-word;
 }
+
+#twitterSideBar{
+	max-height: 1500px;
+    overflow: auto;
+}
